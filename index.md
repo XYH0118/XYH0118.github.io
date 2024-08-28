@@ -8,9 +8,9 @@ layout: page
 
 Here is **Xiaoyang Huang (黄晓阳)**.
 
-I am a final-year Master's student majoring in Information and Communication Engineering (ICE) at the University of Science and Technology of China (USTC), under the supervision of [Prof. Xun Chen](https://www.cl.cam.ac.uk/~pl219/).
+I am a final-year Master's student majoring in Information and Communication Engineering (ICE) at the University of Science and Technology of China (USTC), under the supervision of [Prof. Xun Chen](http://staff.ustc.edu.cn/~xunchen/).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - [xiaoyanghuang@mail.ustc.edu.cn](mailto:xiaoyanghuang@mail.ustc.edu.cn)
 
 ## Academic Background
 
