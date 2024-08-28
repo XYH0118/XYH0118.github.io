@@ -5,12 +5,9 @@ title: Publications
 ---
 
 ## Paper
-- C. Li, **X. Huang**, R. Song, R. Qian, X. Liu, X. Chen, **[“EEG-based seizure prediction via Transformer guided CNN.”](https://www.sciencedirect.com/science/article/abs/pii/S0263224122011447)** *Measurement, 2022, 203: 111948. Published*.
-
-- **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising.”** *IEEE Journal of Biomedical and Health Informatics, Under the second round of review, 2024.*
-
-- **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“Unpaired EEG Denoising Via Contrastive Learning-Guided Generative Adversarial Network.”** *IEEE Transactions on Neural Networks and Learning Systems, Under Review, 2024.*
-
+- C. Li, **X. Huang**, R. Song, R. Qian, X. Liu, X. Chen, **[“EEG-based seizure prediction via Transformer guided CNN.”](https://www.sciencedirect.com/science/article/abs/pii/S0263224122011447)** *Measurement, 2022, 203: 111948. Published*.<br>
+- **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising.”** *IEEE Journal of Biomedical and Health Informatics, Under the second round of review, 2024.*<br>
+- **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“Unpaired EEG Denoising Via Contrastive Learning-Guided Generative Adversarial Network.”** *IEEE Transactions on Neural Networks and Learning Systems, Under Review, 2024.*<br>
 - **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“EEGKDNet: A Novel Bidirectional Denoising Framework for Real EEG Signals based on the Kolmogorov-Arnold Network.”** *IEEE Transactions on Neural Systems and Rehabilitation Engineering, Under Review, 2023.*
 
   <br>
@@ -22,9 +19,7 @@ title: Publications
 
 - [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
+- [EEG-based seizure prediction via Transformer guided CNN.](https://www.sciencedirect.com/science/article/abs/pii/S0263224122011447)<br>**Hanlin Cai** (Advisor: Chang Li, Xun Chen).<br> China National University Student Innovation & Entrepreneurship Development Program.<br>
 
 ---
 
