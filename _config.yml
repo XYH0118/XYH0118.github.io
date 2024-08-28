@@ -2,7 +2,7 @@ title: Xiaoyang Huang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://huangxiaoyang.com
+url: https://XYH0118.github.io
 
 # Owner/author information
 owner:
@@ -10,7 +10,7 @@ owner:
   avatar: xiaoyang.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: xiaoyanghuang@mail.ustc.edu.cn
-  cv: https://huangxiaoyang.com/file/CV-XiaoyangHuang.pdf
+  cv: https://XYH0118.github.io/file/CV-XiaoyangHuang.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: XYH0118
   # linkedin: hanlincai
