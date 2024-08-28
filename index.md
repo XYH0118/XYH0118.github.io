@@ -1,10 +1,9 @@
 ---
 layout: page
 ---
+<img src="https://XYH0118.github.io/xiaoyang.jpg" class="floatpic" width="360" height="480">
 
 # About Me
-
-<img src="https://XYH0118.github.io/xiaoyang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Xiaoyang Huang (黄晓阳)**.
 
