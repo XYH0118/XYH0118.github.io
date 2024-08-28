@@ -17,8 +17,8 @@ title: Publications
 
 ## Degree Thesis
 
-- Research on the Removal of Artifacts in EEG Signals Using Deep Learning Methods.<br>**Hanlin Cai** (Advisor: Xun Chen).<br>
-- [EEG-based seizure prediction via Transformer guided CNN.](https://www.sciencedirect.com/science/article/abs/pii/S0263224122011447)<br>**Hanlin Cai** (Advisor: Chang Li, Xun Chen).<br> China National University Student Innovation & Entrepreneurship Development Program.<br>Proposal paper has been accepted by Measurement 2022
+- Research on the Removal of Artifacts in EEG Signals Using Deep Learning Methods.<br>**Xiaoyang Huang** (Advisor: Xun Chen).<br>
+- [EEG-based seizure prediction via Transformer guided CNN.](https://www.sciencedirect.com/science/article/abs/pii/S0263224122011447)<br>**Xiaoyang Huang** (Advisor: Chang Li, Xun Chen).<br> China National University Student Innovation & Entrepreneurship Development Program.<br>Proposal paper has been accepted by Measurement 2022
 
 
 <br>
