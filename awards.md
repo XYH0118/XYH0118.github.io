@@ -16,8 +16,9 @@ title: Awards
 
 ## Competitions (Selected)
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition (Top 1%)
+- Aug. 2021：Third Prize in China College Students Service Outsourcing Innovation and Entrepreneurship Competition (Deep Learning Algorithm Competitions)
+- Aug. 2020：First Prize in Anhui Province College Students Service Outsourcing Innovation and Entrepreneurship Competition (Deep Learning Algorithm Competitions)
+- Aug. 2023：Second Prize in Anhui Provincial College Students Statistical Modeling Competition (Deep Learning Algorithm Competitions)
 - Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
 - June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
 - May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
