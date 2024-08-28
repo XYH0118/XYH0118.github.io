@@ -4,11 +4,8 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: 3rd August 2024
->
-> (†: equal contribution, ~: corresponding author)
-
-## Conference Paper
+## Paper
+- C. Li, **X. Huang**, R. Song, R. Qian, X. Liu, X. Chen, **“EEG-based seizure prediction via Transformer guided CNN.”** Measurement, 2022, 203: 111948. Published.
 
 - BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
 
