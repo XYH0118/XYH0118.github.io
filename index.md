@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://XYH0118.github.io/huangxiaoyang.jpg" class="floatpic" width="360" height="480">
+<img src="https://XYH0118.github.io/xiaoyang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.
 
