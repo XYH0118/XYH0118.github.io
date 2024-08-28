@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://XYH0118.github.io/xiaoyang.jpg" class="floatpic" width="360" height="480">
 
-Here is **Xiaoyang Huang (Lance, 蔡汉霖)**.
+Here is **Xiaoyang Huang (黄晓阳)**.
 
 I am a final-year Master's student majoring in Information and Communication Engineering (ICE) at the University of Science and Technology of China (USTC), under the supervision of [Prof. Xun Chen](https://www.cl.cam.ac.uk/~pl219/).
 
