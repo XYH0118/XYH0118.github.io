@@ -5,9 +5,10 @@ title: Publications
 ---
 
 ## Paper
-- C. Li, **X. Huang**, R. Song, R. Qian, X. Liu, X. Chen, **“EEG-based seizure prediction via Transformer guided CNN.”** Measurement, 2022, 203: 111948. Published.
-
-- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
+- C. Li, **X. Huang**, R. Song, R. Qian, X. Liu, X. Chen, **“EEG-based seizure prediction via Transformer guided CNN.”** *Measurement, 2022, 203: 111948. Published*.
+- **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising.”** *IEEE Journal of Biomedical and Health Informatics, Under the second round of review, 2024.*
+- **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“Unpaired EEG Denoising Via Contrastive Learning-Guided Generative Adversarial Network.”** *IEEE Transactions on Neural Networks and Learning Systems, Under Review, 2024.*
+- **X. Huang**, C. Li, A. Liu, R. Qian, and X. Chen, **“EEGKDNet: A Novel Bidirectional Denoising Framework for Real EEG Signals based on the Kolmogorov-Arnold Network.”** *IEEE Transactions on Neural Systems and Rehabilitation Engineering, Under Review, 2023.*
 
   <br>
 
