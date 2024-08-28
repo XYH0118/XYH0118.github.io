@@ -14,16 +14,11 @@ title: Awards
 - Dec. 2020：**Second-Class Academic Scholarship**
 - Dec. 2019：**Second-Class Academic Scholarship**
 
-## Competitions (Selected)
+## Competitions
 
 - Aug. 2021：Third Prize in China College Students Service Outsourcing Innovation and Entrepreneurship Competition (Deep Learning Algorithm Competitions)
 - Aug. 2020：First Prize in Anhui Province College Students Service Outsourcing Innovation and Entrepreneurship Competition (Deep Learning Algorithm Competitions)
-- Aug. 2023：Second Prize in Anhui Provincial College Students Statistical Modeling Competition (Deep Learning Algorithm Competitions)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Aug. 2023：Second Prize in Anhui Provincial College Students Statistical Modeling Competition (Deep Learning Algorithm Competitions)<br>
 
 ## Services
 
