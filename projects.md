@@ -4,6 +4,12 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+<video>
+  <source src="/videos/video_dan.mp4" type="video/mp4">
+</video>
+
+<img src="/images/swimming2.JPG">
+
 ## Chinese Blogs
 
 ### 2024
