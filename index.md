@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xiaoyang Huang (黄晓阳)**.
 
-I am a final-year Master's student majoring in Information and Communication Engineering (ICE) at the University of Science and Technology of China (USTC), under the supervision of [Prof. Xun Chen](http://staff.ustc.edu.cn/~xunchen/). Before that I received BS in Biomedical Engineering from Hefei University of Technology, under the supervision of [Prof. Chang Li](https://yqkxen.hfut.edu.cn/2023/1121/c14386a298711/page.htm).
+I am a final-year Master's student majoring in Information and Communication Engineering (ICE) at the University of Science and Technology of China (USTC), under the supervision of [Prof. Xun Chen](http://staff.ustc.edu.cn/~xunchen/). Before that I received BS in Biomedical Engineering (BME) from Hefei University of Technology (HFUT), under the supervision of [Prof. Chang Li](https://yqkxen.hfut.edu.cn/2023/1121/c14386a298711/page.htm).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - [xiaoyanghuang@mail.ustc.edu.cn](mailto:xiaoyanghuang@mail.ustc.edu.cn)
 
