@@ -8,7 +8,7 @@ title: Projects
 ### An Automatic Diagnosis Application for COVID-19 Based on X-ray Scans
 
 - Developed in Python with a user-friendly GUI, it provides high identification accuracy, rapid inference speed, and substantial clinical application value.<br>
-- It achieved a test accuracy of up to 96\% on public datasets and includes real-time analytics capabilities.<br>
+- It achieved a test accuracy of up to 96% on public datasets and includes real-time analytics capabilities.<br>
 
 <p align="center">
   <img src="/images/projects/covid_1.png">
