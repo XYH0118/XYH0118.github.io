@@ -10,13 +10,14 @@ title: Projects
 - Developed in Python with a user-friendly GUI, it provides high identification accuracy, rapid inference speed, and substantial clinical application value.<br>
 - It achieved a test accuracy of up to 96% on public datasets and includes real-time analytics capabilities.<br>
 
-<p align="center">
-  <img src="/images/projects/covid_1.png">
-</p>
 
-<p align="center">
-  <img src="/images/projects/covid_2.png">
-</p>
+<div align=center>
+	<img src="/images/projects/covid_1.png"/>
+</div>
+
+<div align=center>
+	<img src="/images/projects/covid_2.png"/>
+</div>
 
 ### Foreground Object Segmentation Algorithm for Non-Specific Categories
 
