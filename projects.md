@@ -20,7 +20,7 @@ title: Projects
 <div align=center>
 	<img src="/images/projects/EEG_3.png"/>
 </div>
-
+<br>
 
 ### An Automatic Diagnosis Application for COVID-19 Based on X-ray Scans
 
@@ -34,6 +34,17 @@ title: Projects
 <div align=center>
 	<img src="/images/projects/covid_2.png"/>
 </div>
+<br>
+
+### Bone Age Measurement Based on YOLO
+
+- Dual-layer Nested UNet Based on Attention Mechanism. Convolutional Block Attention Module (CBAM).<br>
+- Model Compression: Knowledge Distillation. Lightweight Deployment Based on Libtorch. (C++)<br>
+
+<div align=center>
+	<img src="/images/projects/bone_age.png"/>
+</div>
+<br>
 
 ### Foreground Object Segmentation Algorithm for Non-Specific Categories
 
@@ -51,6 +62,7 @@ title: Projects
 <div align=center>
 	<img src="/videos/video_dan_3.gif"/>
 </div>
+<br>
 
 ### A Single-Camera Pedestrian Tracking System Based on PaddlePaddle
 
