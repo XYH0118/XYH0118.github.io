@@ -16,9 +16,9 @@ title: Hobbies
 <img src="/images/hiking_6.jpg">
 <img src="/images/hiking_5.jpg">
 <img src="/images/hiking_7.jpg">
+<img src="/images/hiking_9.jpg">
 <img src="/images/hiking_8.jpg">
 <img src="/images/hiking_10.jpg">
-<img src="/images/hiking_9.jpg">
 <img src="/images/hiking_13.jpg">
 <img src="/images/hiking_11.jpg">
 </div>
