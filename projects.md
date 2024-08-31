@@ -10,7 +10,6 @@ title: Projects
 - Developed in Python with a user-friendly GUI, it provides high identification accuracy, rapid inference speed, and substantial clinical application value.<br>
 - It achieved a test accuracy of up to 96% on public datasets and includes real-time analytics capabilities.<br>
 
-
 <div align=center>
 	<img src="/images/projects/covid_1.png"/>
 </div>
@@ -41,12 +40,13 @@ title: Projects
 - Dual-layer Nested UNet Based on Attention Mechanism. Convolutional Block Attention Module (CBAM).<br>
 - Model Compression: Knowledge Distillation. Lightweight Deployment Based on Libtorch. (C++)<br>
 
-<p align="center">
-  <img src="/videos/video_detection_1.gif">
-</p>
-<p align="center">
-  <img src="/videos/video_detection_2.gif">
-</p>
+<div align=center>
+	<img src="/videos/video_detection_1.gif"/>
+</div>
+
+<div align=center>
+	<img src="/videos/video_detection_2.gif"/>
+</div>
 
 
 <br>
