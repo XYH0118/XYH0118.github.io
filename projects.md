@@ -13,6 +13,7 @@ title: Projects
 <p align="center">
   <img src="/images/projects/covid_1.png">
 </p>
+
 <p align="center">
   <img src="/images/projects/covid_2.png">
 </p>
