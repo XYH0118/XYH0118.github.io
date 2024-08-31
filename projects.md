@@ -4,11 +4,10 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-<video>
-  <source src="/videos/video_dan.mp4" type="video/mp4">
-</video>
-
 <img src="/images/swimming2.JPG">
+<img src="/videos/video_dan_1.gif">
+<img src="/videos/video_dan_2.gif">
+<img src="/videos/video_dan_3.gif">
 
 ## Chinese Blogs
 
