@@ -38,8 +38,8 @@ title: Projects
 
 ### Bone Age Measurement Based on YOLO
 
-- Dual-layer Nested UNet Based on Attention Mechanism. Convolutional Block Attention Module (CBAM).<br>
-- Model Compression: Knowledge Distillation. Lightweight Deployment Based on Libtorch. (C++)<br>
+- Perform object detection and locate finger joints using YOLO.<br>
+- Extract finger joint images, classify and register these images to achieve bone age measurement.<br>
 
 <div align=center>
 	<img src="/images/projects/bone_age.png"/>
