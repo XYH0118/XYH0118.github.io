@@ -4,7 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-<img src="/images/swimming2.JPG">
+
+### Foreground Object Segmentation Algorithm for Non-Specific Categories
+
 <img src="/videos/video_dan_1.gif">
 <img src="/videos/video_dan_2.gif">
 <img src="/videos/video_dan_3.gif">
