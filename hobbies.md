@@ -9,12 +9,12 @@ title: Hobbies
 ## Swimming & Surfing
 
 <div class="third">
-<img src="/images/hiking_1.JPG">
-<img src="/images/hiking_2.JPG">
-<img src="/images/hiking_3.JPG">
-<img src="/images/hiking_4.JPG">
-<img src="/images/hiking_5.JPG">
-<img src="/images/hiking_6.JPG">
+<img src="/images/hiking_1.jpg">
+<img src="/images/hiking_2.jpg">
+<img src="/images/hiking_3.jpg">
+<img src="/images/hiking_4.jpg">
+<img src="/images/hiking_5.jpg">
+<img src="/images/hiking_6.jpg">
 </div>
 <br>
 
