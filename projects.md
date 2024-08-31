@@ -24,15 +24,17 @@ title: Projects
 - Dual-layer Nested UNet Based on Attention Mechanism. Convolutional Block Attention Module (CBAM).<br>
 - Model Compression: Knowledge Distillation. Lightweight Deployment Based on Libtorch. (C++)<br>
 
-<p align="center">
-  <img src="/videos/video_dan_1.gif">
-</p>
-<p align="center">
-  <img src="/videos/video_dan_2.gif">
-</p>
-<p align="center">
-  <img src="/videos/video_dan_3.gif">
-</p>
+<div align=center>
+	<img src="/videos/video_dan_1.gif"/>
+</div>
+
+<div align=center>
+	<img src="/videos/video_dan_2.gif"/>
+</div>
+
+<div align=center>
+	<img src="/videos/video_dan_3.gif"/>
+</div>
 
 ### A Single-Camera Pedestrian Tracking System Based on PaddlePaddle
 
