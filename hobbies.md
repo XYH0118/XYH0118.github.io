@@ -13,7 +13,7 @@ title: Hobbies
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div>
-<br>Hiking helps me clear my mind, rejuvenate my body, and gives me the strength to tackle any challenges. I thoroughly enjoy the serenity of being surrounded by nature while on the trail. Over the years, I have participated in numerous hiking expeditions, challenging myself with various terrains and distances.
+<br>Hiking helps me clear my mind, rejuvenate my body, and gives me the strength to tackle any challenges. I thoroughly enjoy the serenity of being surrounded by nature while on the trail. Over the years, I have participated in numerous hiking expeditions, challenging myself with various terrains and distances. Recently, I've also developed an interest in long-distance running, further expanding my love for outdoor activities.
 
 ## Workshop
 
