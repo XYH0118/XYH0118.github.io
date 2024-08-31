@@ -7,9 +7,18 @@ title: Projects
 
 ### Foreground Object Segmentation Algorithm for Non-Specific Categories
 
-<img src="/videos/video_dan_1.gif">
-<img src="/videos/video_dan_2.gif">
-<img src="/videos/video_dan_3.gif">
+- Dual-layer Nested UNet Based on Attention Mechanism. Convolutional Block Attention Module (CBAM).<br>
+- Model Compression: Knowledge Distillation. Lightweight Deployment Based on Libtorch. (C++)<br>
+<p align="center">
+  <img src="/videos/video_dan_1.gif">
+</p>
+<p align="center">
+  <img src="/videos/video_dan_2.gif">
+</p>
+<p align="center">
+  <img src="/videos/video_dan_3.gif">
+</p>
+
 
 ## Chinese Blogs
 
