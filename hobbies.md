@@ -7,7 +7,7 @@ title: Hobbies
 # Hobbies
 
 ## Hiking & Runing
-
+<br>Hiking helps me clear my mind, rejuvenate my body, and gives me the strength to tackle any challenges. I thoroughly enjoy the serenity of being surrounded by nature while on the trail. Over the years, I have participated in numerous hiking expeditions, challenging myself with various terrains and distances. Completed multiple **100-kilometer hiking challenges**. Recently, I've also developed an interest in long-distance running, further expanding my love for outdoor activities.<br>
 <div class="third">
 <img src="/images/hiking_1.jpg">
 <img src="/images/hiking_3.jpg">
@@ -21,6 +21,4 @@ title: Hobbies
 <img src="/images/hiking_9.jpg">
 <img src="/images/hiking_13.jpg">
 <img src="/images/hiking_11.jpg">
-
 </div>
-<br>Hiking helps me clear my mind, rejuvenate my body, and gives me the strength to tackle any challenges. I thoroughly enjoy the serenity of being surrounded by nature while on the trail. Over the years, I have participated in numerous hiking expeditions, challenging myself with various terrains and distances. Completed multiple **100-kilometer hiking challenges**. Recently, I've also developed an interest in long-distance running, further expanding my love for outdoor activities.
