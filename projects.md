@@ -4,6 +4,23 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+### EEG Denoising Toolbox
+
+- Developed in Python with a GUI interface, supporting multiple denoising Smodels and visualizing denoising results.<br>
+- Based on deep learning methods, supporting both GPU and CPU environments.<br>
+
+<div align=center>
+	<img src="/images/projects/EEG_1.png"/>
+</div>
+
+<div align=center>
+	<img src="/images/projects/EEG_2.png"/>
+</div>
+
+<div align=center>
+	<img src="/images/projects/EEG_3.png"/>
+</div>
+
 
 ### An Automatic Diagnosis Application for COVID-19 Based on X-ray Scans
 
