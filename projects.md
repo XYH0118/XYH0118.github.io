@@ -24,12 +24,6 @@ title: Projects
 - Dual-layer Nested UNet Based on Attention Mechanism. Convolutional Block Attention Module (CBAM).<br>
 - Model Compression: Knowledge Distillation. Lightweight Deployment Based on Libtorch. (C++)<br>
 <p align="center">
-  <img src="/videos/video_detection_1.gif">
-</p>
-<p align="center">
-  <img src="/videos/video_detection_2.gif">
-</p>
-<p align="center">
   <img src="/videos/video_detection_3.gif">
 </p>
 <p align="center">
