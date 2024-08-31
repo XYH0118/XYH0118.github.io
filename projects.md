@@ -17,8 +17,6 @@ title: Projects
   <img src="/images/projects/covid_2.png">
 </p>
 
-
-
 ### Foreground Object Segmentation Algorithm for Non-Specific Categories
 
 - Dual-layer Nested UNet Based on Attention Mechanism. Convolutional Block Attention Module (CBAM).<br>
